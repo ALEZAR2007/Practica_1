@@ -1,0 +1,14 @@
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\1_Practicheskoe_Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\1_Practicheskoe_Zadanie.AssemblyInfoInputs.cache
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\1_Practicheskoe_Zadanie.AssemblyInfo.cs
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\1_Practicheskoe_Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\bin\Debug\net8.0\1_Practicheskoe_Zadanie.exe
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\bin\Debug\net8.0\1_Practicheskoe_Zadanie.deps.json
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\bin\Debug\net8.0\1_Practicheskoe_Zadanie.runtimeconfig.json
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\bin\Debug\net8.0\1_Practicheskoe_Zadanie.dll
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\bin\Debug\net8.0\1_Practicheskoe_Zadanie.pdb
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\1_Practicheskoe_Zadanie.dll
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\refint\1_Practicheskoe_Zadanie.dll
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\1_Practicheskoe_Zadanie.pdb
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\1_Practicheskoe_Zadanie.genruntimeconfig.cache
+C:\Users\aleza\source\repos\1_Practicheskoe_Zadanie\1_Practicheskoe_Zadanie\obj\Debug\net8.0\ref\1_Practicheskoe_Zadanie.dll
